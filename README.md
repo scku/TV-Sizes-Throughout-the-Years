@@ -1,4 +1,4 @@
-CNET-TV-Reviews
+TV-Sizes-Throughout-the-Years
 ===============
 
 Crawling CNET TV reviews
@@ -15,4 +15,8 @@ To start launch the Scrapy spider, run the following command
 ```python
 scrapy crawl cnettv -o links.txt -t csv
 ```
+
+###NBViewer
+
+Use nbviewer to view the [iPython notebook](http://nbviewer.ipython.org/github/scku/TV-Sizes-Throughout-the-Years/blob/master/TVSizes.ipynb) that contains the code and analysis.
 
